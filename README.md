@@ -1,5 +1,6 @@
+<span align="center" width="35%" >![d29f1944-1852-403b-a0f9-059a5c2c01f4_AdobeExpress](https://github.com/rjalvarez27/rjalvarez27/assets/122297344/fd303e8b-a123-4e13-a42b-f814a544e715)</span> 
+
 Hi, I'm Raul Alvarez 👋
-<img src="https://github.com/rjalvarez27/rjalvarez27/issues/1#issue-1727828280"/>   
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />        
 
 Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">     
