@@ -15,7 +15,7 @@
 ```js
 const rjalvares27 = {      
       code:["HTML", "CSS", "Javascript", "Python"],
-      hobbies: ["videogames", "music"],
+      hobbies: ["videogames", "music", "travel"],
       technologies: {
       frontEnd: {
          js: ["React"],
