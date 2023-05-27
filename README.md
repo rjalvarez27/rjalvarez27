@@ -13,8 +13,9 @@
 <p style="text-align:center;"> Desarrollador de software en constante aprendizaje, bueno para resolver problemas, soy persistente y estoy buscando siempre aprender nuevas tecnologías y hacer nuevos proyectos. Actualmente me encuentro en la busqueda de nuevas oportunidades donde pueda aprender y desarrollar mis habilidades.</p>
 
 ```js
-const rjalvares27 = {
+const rjalvares27 = {      
       code:["HTML", "CSS", "Javascript", "Python"],
+      hobbies: ["videogames", "music"],
       technologies: {
       frontEnd: {
          js: ["React"],
