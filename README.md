@@ -16,7 +16,7 @@
 
 - 💼 Buscando
 
-- 🔭Actualmente estoy trabajando en Node.js, Express.js, React, etc.💻. 
+- 💻He trabajado en JavaScript, Python, HTML/CSS,  React, Nodejs, Expressjs, MySQL, Git, Docker, etc 
 
 - 🎮 videogames, music, travel
 
