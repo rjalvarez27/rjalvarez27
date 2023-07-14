@@ -24,7 +24,6 @@
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://github.com/rjalvarez27/rjalvarez27/assets/122297344/b8bf507f-566c-4251-a509-1bd5cad5a796" alt="Raul Alvarez" height="40" width="40" /></a> 
 <a href="https://www.linkedin.com/in/raul-alvarez-497543144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raul Alvarez" height="30" width="40" /> linkedin </a> 
 </p>
 
