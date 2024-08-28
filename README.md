@@ -16,7 +16,7 @@
 
 - 💼 Buscando
 
-- 💻He trabajado en JavaScript, Python, HTML/CSS,  React, Nodejs, Expressjs, MySQL, Git, Docker, etc 
+- 💻  HTML, CSS, Git, JavaScript, Python, PHP, React, Nodejs, Expressjs, MySQL, Mongo entre otros. 
 
 - 🎮 videogames, music, travel
 
