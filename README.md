@@ -16,7 +16,7 @@
 
 - 💼 Buscando
 
-- 💻  HTML, CSS, Git, JavaScript, Python, PHP, React, Nodejs, Expressjs, MySQL, Mongo entre otros. 
+- 💻  HTML, CSS, Git, JavaScript, Python, PHP, React, Nodejs, Expressjs, MySQL, Mongo , aws entre otros. 
 
 - 🎮 videogames, music, travel
 
@@ -54,11 +54,11 @@ _____
 
  _____
 
- ##### Cursos actuales ✔️
+ ##### Curso de actualización ✔️
 
  Back-end Avanzado --- Social Oplesk.
  <br>
- Ingles basico --- Centro de Idiomas Bradford.
+ Ingles --- Centro de Idiomas Bradford.
 
  #### Contacto 
 
