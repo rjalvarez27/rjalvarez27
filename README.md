@@ -54,13 +54,13 @@ _____
 
  _____
 
- ##### Curso de actualización ✔️
+ ##### Cursos de actualización ✔️
 
  Back-end Avanzado --- Social Oplesk.
  <br>
  Ingles --- Centro de Idiomas Bradford.
 
- #### Contacto 
+ #### Contactos
 
 <p align="left">
 <a href="https://www.linkedin.com/in/raul-alvarez-497543144/">
